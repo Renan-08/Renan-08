@@ -11,10 +11,6 @@ Olá! Eu sou Renan, estudante do 2° ano do ensino médio, cujo estou cursando t
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Renan-08&layout=compact&bg_color=2A8DC3&border_color=FFB300&title_color=FFB300&text_color=FFF)
 
-### Repositórios próprio
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-08&repo=C-digos-criados-na-OBI-1-fase-24&bg_color=2A8DC3&border_color=FFB300&show_icons=true&icon_color=FFB300&title_color=FFB300&text_color=FFF)](https://github.com/Renan-08/C-digos-criados-na-OBI-1-fase-24)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Renan-08&repo=Java-basico&bg_color=2A8DC3&border_color=FFB300&show_icons=true&icon_color=FFB300&title_color=FFB300&text_color=FFF)](https://github.com/Renan-08/Java-basico)
 
 ### Links para contato
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@renan_marques/)
