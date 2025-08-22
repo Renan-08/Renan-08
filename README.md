@@ -9,9 +9,6 @@ Olá! Eu sou Renan, estudante do 3° ano do ensino médio, cujo estou cursando t
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renan-08&theme=highcontrast&bg_color=2A8DC3&border_color=FFB300&show_icons=true&icon_color=FFB300&title_color=FFB300&text_color=FFF)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Renan-08&layout=compact&bg_color=2A8DC3&border_color=FFB300&title_color=FFB300&text_color=FFF)
-
-
 ### Links para contato
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@renan_marques/)
 
