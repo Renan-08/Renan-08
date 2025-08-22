@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-Olá! Eu sou Renan, estudante do 2° ano do ensino médio, cujo estou cursando técnico em Redes de Computadores. tenho um grande interesse nas áreas de programação e segurança da informação. Estou sempre em busca de novos conhecimentos e desafios que possam me ajudar a crescer.
+Olá! Eu sou Renan, estudante do 3° ano do ensino médio, cujo estou cursando técnico em Redes de Computadores. tenho um grande interesse nas áreas de programação e segurança da informação. Estou sempre em busca de novos conhecimentos e desafios que possam me ajudar em me desenvolver.
 
-- 🌱 Atualmente, estou aprendendo programação em Python e java, e os fundamentos de segurança de redes de computadores.
+- 🌱 Atualmente, estou aprendendo programação em Python e os fundamentos de segurança de redes de computadores.
 - 🔭 Esse é o meu primeiro projeto colaborativo no GitHub apesar de ter alguns repositórios próprios de pequenos scripts feitos por mim em Python
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renan-08&theme=highcontrast&bg_color=2A8DC3&border_color=FFB300&show_icons=true&icon_color=FFB300&title_color=FFB300&text_color=FFF)
